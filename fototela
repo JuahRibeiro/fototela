@@ -45,7 +45,7 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
 </div>
 
 <!-- Page Container -->
-<div class="w3-container w3-content" style="max-width:1400px;margin-top:80px">    
+<div class="w3-container w3-content" style="max-width:1900px;margin-top:160px">    
   <!-- The Grid -->
   <div class="w3-row">
     <!-- Left Column -->
@@ -54,11 +54,11 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
       <div class="w3-card w3-round w3-white">
         <div class="w3-container">
          <h4 class="w3-center">Juah Ribeiro</h4>
-         <p class="w3-center"><img src="https://scontent.fvdc9-1.fna.fbcdn.net/v/t39.30808-6/292558882_444492011021969_2014064182948758992_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7b2M3tbc-bkAX9aZlXO&_nc_ht=scontent.fvdc9-1.fna&oh=00_AT-ssvV9UMml-maaXSOlNs4dGDFMZylAG69j1yys-k0ePg&oe=62F0B4FC" class="w3-circle" style="height:106px;width:106px" alt="Avatar"></p>
+         <p class="w3-center"><img src="https://scontent.fbsb9-1.fna.fbcdn.net/v/t39.30808-6/292558882_444492011021969_2014064182948758992_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=F0dS1BSzrfoAX8iKjnY&_nc_ht=scontent.fbsb9-1.fna&oh=00_AT-wNPE3Ry5NCtnd5GjKpxsj3oOKITXawSztUCSgvHB9jQ&oe=62FA983C" class="w3-circle" style="height:106px;width:106px" alt="Avatar"></p>
          <hr>
-         <p><i class="fa fa-pencil fa-fw w3-margin-right w3-text-theme"></i> fotografo</p>
-         <p><i class="fa fa-home fa-fw w3-margin-right w3-text-theme"></i>Aracuai, Minas Gerais, BR</p>
-         <p><i class="fa fa-birthday-cake fa-fw w3-margin-right w3-text-theme"></i> April 2, 1990</p>
+         <p><i class="fa fa-pencil fa-fw w3-margin-right w3-text-theme"></i> Fotógrafo</p>
+         <p><i class="fa fa-home fa-fw w3-margin-right w3-text-theme"></i>Araçuai, Minas Gerais, BR</p>
+         <p><i class="fa fa-birthday-cake fa-fw w3-margin-right w3-text-theme"></i> Abril 2, 1990</p>
         </div>
       </div>
       <br>
@@ -185,7 +185,7 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
         <hr class="w3-clear">
         <p>gostaram dessa?</p>
         <img src="https://4.bp.blogspot.com/-D9578tSMYs0/WJtiJhNwZOI/AAAAAAAA0gk/mIbCotmhExwhDHsOuA7s43h_vK-rMhVIQCLcB/s1600/diamantina-minas-gerais.jpgg" style="width:100%" class="w3-margin-bottom">
-        <p>retirada ontem vindo do meu trabalho...cidade de Diamantina MG.</p>
+        <p>Retirada ontem vindo do meu trabalho...cidade de Diamantina MG.</p>
         <button type="button" class="w3-button w3-theme-d1 w3-margin-bottom"><i class="fa fa-thumbs-up"></i>  curtir</button> 
         <button type="button" class="w3-button w3-theme-d2 w3-margin-bottom"><i class="fa fa-comment"></i>  Comentar</button> 
       </div> 

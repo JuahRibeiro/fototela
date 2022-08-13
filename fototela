@@ -1,7 +1,8 @@
-<!DOCTYPE html>
+
+!DOCTYPE html>
 <html>
 <head>
-<title>W3.CSS Template</title>
+<title>FotoTela</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -12,11 +13,11 @@
 html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
 </style>
 </head>
-<body class="w3-gray">
+<body class="w3-black">
 
 <!-- Navbar -->
 <div class="w3-top">
- <div class="w3-bar w3-black w3-left-align w3-large">
+ <div class="w3-bar w3-gray w3-left-align w3-large">
   <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
   <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black"><i class="fa fa-home w3-black"></i> FOTO TELA</a>
   <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="News"><i class="fa fa-globe"></i></a>
@@ -31,7 +32,7 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
     </div>
   </div>
   <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-padding-large w3-hover-white" title="My Account">
-    <img src="/w3images/avatar2.png" class="w3-circle" style="height:23px;width:23px" alt="Avatar">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7GmrhWy_9GYUYxMshTXg6oJa4nWS-LYBXtvv8tVnrRp7udeWFUoWU8fMunNVTBdb9YfI&usqp=CAU" class="w3-circle" style="height:30px;width:30px" alt="Inicio">
   </a>
  </div>
 </div>
@@ -151,9 +152,9 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
       </div>
       
       <div class="w3-container w3-card w3-white w3-round w3-margin"><br>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ltRE-VmAL3fakF1QTQKjAWwBD-AsBveoyLE8JLf5gneE5S7ax5hq-PlRWpWwX0a1XZ0&usqp=CAU" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
+        <img src="https://i.pinimg.com/736x/b4/e5/85/b4e585d6ef20fb28ec9c0f858e43a559.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
         <span class="w3-right w3-opacity">1 min</span>
-        <h4>Adalson Cardoso</h4><br>
+        <h4>Herick Santos</h4><br>
         <hr class="w3-clear">
         <p>Fotos da cidade natal do meu avô em Tromsø na Noroega!</p>
           <div class="w3-row-padding" style="margin:0 -16px">
@@ -274,3 +275,17 @@ function openNav() {
     x.className = x.className.replace(" w3-show", "");
   }
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
